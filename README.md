@@ -1,2 +1,2 @@
 # Linux101
-This reporistory will showcase my journy learning Linux, enjoy!
+This reporistory will showcase my journey learning Linux, enjoy!
