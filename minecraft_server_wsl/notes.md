@@ -14,8 +14,16 @@ Paper is a high-performance Minecraft: Java Edition server implementation that f
 
   - better optimization on low-performance devices
   - a powerfull plugin API
-   overall improved performance
+  - overall improved performance
 
 ## Startup Script
 
+The server is started using a custom startup script that defines JVM flags for performance optimization and server customization.
 
+Using a startup script allows consistent server launches and makes it easier to tune performance as the system evolves.
+
+The custom script is based on Aikar’s recommended JVM flags.
+
+These flags are widely used in the Minecraft community to improve performance and memory management and were not created by me. They are used here as a best-practice configuration and can be adjusted if needed.
+
+You can find these here: https://docs.papermc.io/paper/aikars-flags/ .
