@@ -1,6 +1,6 @@
 # Moving Files to WSL Guide
 
-In this file I will cover a step by step guide on how I created the server folder for this little project.
+In this file I will cover a step by step guide on how I created the server folder and the most crucial command line commands for file management.
 
 ## Server.zip creation
 1. Create a folder on your desktop.
@@ -11,3 +11,4 @@ In this file I will cover a step by step guide on how I created the server folde
 
 ## File Transfer to WSL Commands
 In this section I will explain what steps to follow to achieve a file transfer between WSL and Windows folders. This will cover many immportant command lines for the file management system in Linux.
+
