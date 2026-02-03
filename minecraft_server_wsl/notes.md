@@ -11,9 +11,11 @@ To run the server, the following components are used:
 The server application will be provided by PaperMC and can be found on https://papermc.io/ .
 
 Paper is a high-performance Minecraft: Java Edition server implementation that focuses on:
-  *better optimization on low-performance devices
-  *a powerfull plugin API
-  *overall improved performance
+
+  - better optimization on low-performance devices
+  - a powerfull plugin API
+   overall improved performance
 
 ## Startup Script
+
 
